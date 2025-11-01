@@ -6,9 +6,6 @@ const Footer = () => {
           <span className="text-primary glow-cyan-text">&gt;</span> Made with{' '}
           <span className="text-secondary glow-magenta-text">♥</span> + JavaScript
         </p>
-        <p className="font-mono text-xs text-muted-foreground/60 mt-2">
-          © {new Date().getFullYear()} Ansh Kumar. All rights reserved.
-        </p>
       </div>
     </footer>
   );

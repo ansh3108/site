@@ -1,10 +1,10 @@
-import { Github, Linkedin, Twitter, Mail } from 'lucide-react';
+import { Github, Linkedin, Twitter, Mail, Instagram } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 
 const socials = [
-  { name: 'GitHub', icon: Github, url: 'https://github.com', color: 'text-primary' },
-  { name: 'LinkedIn', icon: Linkedin, url: 'https://linkedin.com', color: 'text-primary' },
-  { name: 'Twitter', icon: Twitter, url: 'https://twitter.com', color: 'text-secondary' },
+  { name: 'GitHub', icon: Github, url: 'https://github.com/ansh3108', color: 'text-primary' },
+  { name: 'LinkedIn', icon: Linkedin, url: 'https://www.linkedin.com/in/ansh-kumar-tech/', color: 'text-primary' },
+  { name: 'Instagram', icon: Instagram, url: 'https://www.instagram.com/__0day_/', color: 'text-secondary' },
   { name: 'Email', icon: Mail, url: 'mailto:hello@anshk.dev', color: 'text-secondary' },
 ];
 

@@ -39,7 +39,7 @@ const Hero = () => {
         
         {showSubtext && (
           <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto animate-fade-in font-sans">
-            caffeine-powered developer exploring the frontier between code and creativity
+            powered by caffeine!
           </p>
         )}
       </div>

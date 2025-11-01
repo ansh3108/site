@@ -34,7 +34,7 @@ const About = () => {
             <div className="absolute inset-0 bg-primary/20 rounded-lg blur-xl group-hover:bg-primary/30 transition-all duration-300"></div>
             <div className="relative aspect-square rounded-lg overflow-hidden border-2 border-primary/50 glow-cyan">
               <img 
-                src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=800&fit=crop" 
+                src="https://avatars.githubusercontent.com/u/115077985?v=4" 
                 alt="Ansh Kumar" 
                 className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-500"
               />
@@ -47,13 +47,11 @@ const About = () => {
             </div>
             
             <p className="text-lg leading-relaxed text-foreground/90 font-sans">
-              <span className="text-primary glow-cyan-text font-mono">//</span> caffeine-powered developer exploring the frontier between code and creativity.
+              <span className="text-primary glow-cyan-text font-mono">//</span> powered by caffeine!
             </p>
             
             <p className="text-base leading-relaxed text-muted-foreground font-sans">
-              I build elegant solutions to complex problems, specializing in web technologies and blockchain development. 
-              When I'm not crafting code, you'll find me diving deep into the latest tech trends, contributing to open source, 
-              or experimenting with new frameworks.
+              I'm a dev who loves building, and right now I'm obsessed with Web3. I'm heads-down learning and building on Solana with Rust. Always curious and tinkering!
             </p>
 
             <div className="pt-4 space-y-2 font-mono text-sm">
@@ -62,7 +60,7 @@ const About = () => {
                 <span className="text-muted-foreground">const</span>
                 <span className="text-foreground">location</span>
                 <span className="text-muted-foreground">=</span>
-                <span className="text-primary">"The Internet"</span>
+                <span className="text-primary">"Delhi, India"</span>
               </div>
               <div className="flex items-center gap-2">
                 <span className="text-secondary glow-magenta-text">❯</span>
@@ -76,7 +74,7 @@ const About = () => {
                 <span className="text-muted-foreground">const</span>
                 <span className="text-foreground">status</span>
                 <span className="text-muted-foreground">=</span>
-                <span className="text-primary">"Building"</span>
+                <span className="text-primary">"Learning & Building"</span>
               </div>
             </div>
           </div>

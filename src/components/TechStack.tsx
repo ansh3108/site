@@ -5,7 +5,7 @@ const technologies = [
   { name: 'Node.js', icon: Zap, category: 'Backend' },
   { name: 'TypeScript', icon: Code2, category: 'Language' },
   { name: 'TailwindCSS', icon: Palette, category: 'Styling' },
-  { name: 'PostgreSQL', icon: Database, category: 'Database' },
+  { name: 'Anchor', icon: Database, category: 'Solana Framework' },
   { name: 'Solana', icon: Lock, category: 'Blockchain' },
   { name: 'Next.js', icon: Globe, category: 'Framework' },
   { name: 'Rust', icon: Zap, category: 'Systems' },
@@ -50,8 +50,7 @@ const TechStack = () => {
             <span className="text-secondary glow-magenta-text">❯</span> Learning & Building!
           </h3>
           <p className="text-muted-foreground font-sans max-w-2xl mx-auto">
-            Always exploring new technologies and pushing boundaries. Currently diving deep into 
-            AI/ML integrations, Web3 infrastructure, and modern DevOps practices.
+            Always exploring new tech and pushing boundaries! Currently learning Web3 infrastructure in Solana with Rust and ofcourse AI/ML integrations!
           </p>
         </div>
       </div>

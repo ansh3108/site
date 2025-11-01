@@ -3,33 +3,13 @@ import { Button } from '@/components/ui/button';
 
 const projects = [
   {
-    name: 'DeFi Dashboard',
-    description: 'Real-time cryptocurrency portfolio tracker with advanced analytics and multi-chain support.',
-    tech: ['React', 'Web3.js', 'TailwindCSS'],
-    liveUrl: '#',
-    githubUrl: '#',
+    name: 'Parallax',
+    description: 'A 2D simulation of a projectile game with some great physics!',
+    tech: ['HTML5', 'Canvas', 'Javascript'],
+    liveUrl: 'https://2d-game-orcin.vercel.app/',
+    githubUrl: 'https://github.com/ansh3108/parallax',
   },
-  {
-    name: 'Neural Canvas',
-    description: 'AI-powered image generation tool with custom model training and style transfer capabilities.',
-    tech: ['Python', 'TensorFlow', 'Next.js'],
-    liveUrl: '#',
-    githubUrl: '#',
-  },
-  {
-    name: 'DevFlow',
-    description: 'Collaborative development environment with integrated CI/CD and real-time code sharing.',
-    tech: ['Node.js', 'Socket.io', 'Docker'],
-    liveUrl: '#',
-    githubUrl: '#',
-  },
-  {
-    name: 'Quantum CLI',
-    description: 'Terminal-based productivity suite with AI assistance and workflow automation.',
-    tech: ['Rust', 'OpenAI API', 'Tauri'],
-    liveUrl: '#',
-    githubUrl: '#',
-  },
+  
 ];
 
 const Projects = () => {
